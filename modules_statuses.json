@@ -1,0 +1,6 @@
+{
+    "Posts": true,
+    "Category": true,
+    "User": true,
+    "Model": true
+}
